@@ -1,0 +1,1 @@
+add_executable(renderer main.c renderer.c)
